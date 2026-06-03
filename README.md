@@ -98,11 +98,14 @@ I specialise in crafting custom websites and SaaS solutions with a strong focus 
 </div>
 
 ---
-
+ 
 ## 🟩 Contribution Graph
-
-[![farooq-8627's GitHub contribution graph](https://ghchart.rshah009.com/0891b2/farooq-8627)](https://github.com/farooq-8627)
-
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farooq-8627/farooq-8627/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farooq-8627/farooq-8627/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/farooq-8627/farooq-8627/output/github-snake.svg" width="100%" />
+</picture>
 ---
 
 ## 🤝 Connect

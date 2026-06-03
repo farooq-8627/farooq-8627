@@ -84,7 +84,7 @@ I specialise in crafting custom websites and SaaS solutions with a strong focus 
 <div align="center">
 
 <a href="https://github.com/farooq-8627">
-  <img height="170" src="https://YOUR_VERCEL_URL/api?username=farooq-8627&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&icon_color=0891b2&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
+  <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api?username=farooq-8627&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&icon_color=0891b2&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api/top-langs/?username=farooq-8627&layout=compact&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&border_color=30363d&langs_count=6&hide_border=false" alt="Top Languages" />
 </a>

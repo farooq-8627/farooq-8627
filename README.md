@@ -84,15 +84,15 @@ I specialise in crafting custom websites and SaaS solutions with a strong focus 
 <div align="center">
 
 <a href="https://github.com/farooq-8627">
-  <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api?username=farooq-8627&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&icon_color=0891b2&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=0" alt="GitHub Stats" />
+  <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api?username=farooq-8627&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&icon_color=0891b2&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api/top-langs/?username=farooq-8627&layout=compact&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&border_color=30363d&langs_count=6&hide_border=false&cache_seconds=0" alt="Top Languages" />
+  <img height="170" src="https://farooq-8627-readme-stats.vercel.app/api/top-langs/?username=farooq-8627&layout=compact&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=0891b2&border_color=30363d&langs_count=6&hide_border=false" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/farooq-8627">
-  <img src="https://streak-stats.demolab.com/?user=farooq-8627&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=8b949e&border=30363d&cache_seconds=0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=farooq-8627&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=8b949e&border=30363d" alt="GitHub Streak" />
 </a>
 
 </div>
